@@ -22,7 +22,7 @@
     numeroJogador = scanner.nextInt();}    
     }
 
-    System.out.println("Parabens! Voce acertou em "+tentativas);
+    System.out.println("Correto! Parabens! Numero de tentativas: "+tentativas);
     
     }
     }
